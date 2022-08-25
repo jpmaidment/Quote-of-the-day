@@ -1,0 +1,12 @@
+<div class="quote-background">
+    <div class="container">
+        <h1><em>Quote of The Day</em></h1>
+
+        <div class="well-sm">
+            <dl>
+                <dt id="quote"></dt>
+                <dd id="author"></dd>
+            </dl>
+        </div>
+    </div>
+</div>
